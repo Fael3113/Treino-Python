@@ -1,4 +1,4 @@
-print("Verifique se o número é maior, menor ou igual")
+print("Verificando se o número é maior, menor ou igual")
 a = float(input("Digite o número A "))
 b = float(input("Digite o número B "))
     
